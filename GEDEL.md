@@ -13,4 +13,6 @@ Dirección del Desarrollo Territorial (GEDEL), centro que posee una serie de pro
 -el monto financiero requerido (donde se especificarán el MCUP y MUSD de los insumos y las inversiones y el total de MCUP y MUSD).
 -las importaciones ( donde se especificarán los insumos, inversiones, la demanda de CL(MUSD) y el total de todos).
 -los empleos, especificando en estos últimos los nuevos empleos (con el de mujeres, hombres y el total) y los empleos mejorados (con el de mujeres, hombres y el total).
+
+
 La aplicación debe permitir agregar, buscar, modificar y eliminar proyectos; mostrar el listado de todos los proyectos, mostrar el listado de proyectos filtrado por determinados parámetros, así como también imprimir a un fichero los datos de los proyectos.
