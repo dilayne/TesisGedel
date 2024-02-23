@@ -42,4 +42,4 @@ La aplicación desarrollada debe ofrecer las siguientes funcionalidades:
 4. **Eliminar:** Permite la eliminación de proyectos del sistema.
 5. **Listado de Proyectos:** Muestra el listado completo de todos los proyectos registrados.
 6. **Listado Filtrado:** Permite filtrar el listado de proyectos según parámetros específicos.
-7. **Imprimir a Archivo:** Permite generar un archivo en formato markdown (.md) con los datos de los proyectos.
+7. **Imprimir a Archivo:** Permite generar un archivo con los datos de los proyectos.
